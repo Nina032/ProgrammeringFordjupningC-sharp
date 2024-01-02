@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\bin\Debug\net8.0\AsyncConsole.exe
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\bin\Debug\net8.0\AsyncConsole.deps.json
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\bin\Debug\net8.0\AsyncConsole.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\bin\Debug\net8.0\AsyncConsole.dll
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\bin\Debug\net8.0\AsyncConsole.pdb
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.dll
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\refint\AsyncConsole.dll
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.pdb
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\AsyncConsole.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\AsyncConsole\obj\Debug\net8.0\ref\AsyncConsole.dll
