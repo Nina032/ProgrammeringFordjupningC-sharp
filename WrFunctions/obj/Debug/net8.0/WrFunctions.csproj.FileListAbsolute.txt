@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\bin\Debug\net8.0\WrFunctions.exe
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\bin\Debug\net8.0\WrFunctions.deps.json
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\bin\Debug\net8.0\WrFunctions.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\bin\Debug\net8.0\WrFunctions.dll
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\bin\Debug\net8.0\WrFunctions.pdb
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.dll
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\refint\WrFunctions.dll
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.pdb
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\WrFunctions.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\WrFunctions\obj\Debug\net8.0\ref\WrFunctions.dll
