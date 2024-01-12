@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\bin\Debug\net8.0\CalculatorLib.deps.json
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\bin\Debug\net8.0\CalculatorLib.dll
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\bin\Debug\net8.0\CalculatorLib.pdb
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.dll
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\refint\CalculatorLib.dll
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.pdb
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\ref\CalculatorLib.dll
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\bin\Debug\net8.0\CalculatorLib.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.csproj.AssemblyReference.cache
+D:\repos\OvningarC-sharpFordjupning\CalculatorLib\obj\Debug\net8.0\CalculatorLib.genruntimeconfig.cache
