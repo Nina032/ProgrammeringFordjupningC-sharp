@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\bin\Debug\net8.0\Generics.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\bin\Debug\net8.0\Generics.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\bin\Debug\net8.0\Generics.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\bin\Debug\net8.0\Generics.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\bin\Debug\net8.0\Generics.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\refint\Generics.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\Generics.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Generics\obj\Debug\net8.0\ref\Generics.dll

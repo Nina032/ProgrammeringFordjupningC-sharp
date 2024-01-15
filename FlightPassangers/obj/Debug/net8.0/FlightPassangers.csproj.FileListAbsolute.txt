@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\bin\Debug\net8.0\FlightPassangers.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\bin\Debug\net8.0\FlightPassangers.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\bin\Debug\net8.0\FlightPassangers.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\bin\Debug\net8.0\FlightPassangers.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\bin\Debug\net8.0\FlightPassangers.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\refint\FlightPassangers.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\FlightPassangers.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\FlightPassangers\obj\Debug\net8.0\ref\FlightPassangers.dll
