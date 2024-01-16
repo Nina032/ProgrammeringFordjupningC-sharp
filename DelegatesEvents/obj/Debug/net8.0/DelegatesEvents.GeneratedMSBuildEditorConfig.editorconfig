@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DelegatesEvents
-build_property.ProjectDir = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\DelegatesEvents\
+build_property.ProjectDir = D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\DelegatesEvents\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

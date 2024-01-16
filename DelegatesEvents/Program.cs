@@ -23,6 +23,10 @@
             harry.Poke();
             harry.Poke();
             harry.Poke();
+            harry.Poke();
+            harry.Poke();
+            harry.Poke();
+
         }
     }
 }

@@ -19,7 +19,7 @@ namespace DelegatesEvents
         public DateTime DateofBirth { get; set; }
 
 
-        //Delegate field
+        //Delegate fält
         public event EventHandler? Shout;
 
         //datafält
@@ -40,12 +40,14 @@ namespace DelegatesEvents
                 //{
                 //    Shout(this, EventArgs.Empty)
                 //}
+
+                //C# 6 or later
                 Shout?.Invoke(this, EventArgs.Empty);
             }
 
         }
 
-        //overriden metod
+        //overriden metod ToString
         public override string ToString()
         {
             return $"{Name} is a {base.ToString()}";

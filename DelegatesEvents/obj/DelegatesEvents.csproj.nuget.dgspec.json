@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj": {}
+    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj": {}
   },
   "projects": {
-    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj": {
+    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj",
+        "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj",
         "projectName": "DelegatesEvents",
-        "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj",
+        "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\DelegatesEvents.csproj",
         "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\obj\\",
+        "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\DelegatesEvents\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudioCommunity\\Shared\\NuGetPackages"
