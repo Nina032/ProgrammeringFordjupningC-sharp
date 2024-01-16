@@ -1,0 +1,54 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using static System.Console;
+
+namespace DelegatesEvents
+{
+    //public delegate void EventHandler(object? sender, EventArgs e);
+
+    //public delegate void EventHandler<TEventArgs>(object? sender, TEventArgs e);
+
+
+    public class Person : object
+    {
+        //Egenskaper
+        public string? Name { get; set; }
+        public DateTime DateofBirth { get; set; }
+
+
+        //Delegate field
+        public event EventHandler? Shout;
+
+        //datafält
+        public int AngerLevel;
+
+        //metod
+        public void WriteToConsole()
+        {
+            WriteLine($"{Name} was born on a {DateofBirth:dddd}.");
+        }
+        public void Poke()
+        {
+            AngerLevel++;
+            if (AngerLevel >=  3)
+            {
+                //om något lysnar på event
+                //if (Shout != null)
+                //{
+                //    Shout(this, EventArgs.Empty)
+                //}
+                Shout?.Invoke(this, EventArgs.Empty);
+            }
+
+        }
+
+        //overriden metod
+        public override string ToString()
+        {
+            return $"{Name} is a {base.ToString()}";
+        }
+    }
+}
