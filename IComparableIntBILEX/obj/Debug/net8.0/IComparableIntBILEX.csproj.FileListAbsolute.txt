@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\bin\Debug\net8.0\IComparableIntBILEX.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\bin\Debug\net8.0\IComparableIntBILEX.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\bin\Debug\net8.0\IComparableIntBILEX.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\bin\Debug\net8.0\IComparableIntBILEX.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\bin\Debug\net8.0\IComparableIntBILEX.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\refint\IComparableIntBILEX.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\IComparableIntBILEX.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ProgrammeringFordjupningC-sharp\IComparableIntBILEX\obj\Debug\net8.0\ref\IComparableIntBILEX.dll

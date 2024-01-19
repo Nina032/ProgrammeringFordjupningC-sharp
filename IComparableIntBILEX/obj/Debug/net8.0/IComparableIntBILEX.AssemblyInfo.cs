@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IComparableIntBILEX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea2972540fa7702c55a93eca2627f43710f744de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98ee591fdf21ddd794e586709781601c70382826")]
 [assembly: System.Reflection.AssemblyProductAttribute("IComparableIntBILEX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IComparableIntBILEX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,8 +18,17 @@ namespace IComparableIntBILEX
             this.år = år;
         }
 
-        public int År { get; set; }
-        public string Tillverkare { get; set; }
+        public int År
+        {
+            get { return this.år; }
+            set { this.år = value; }
+        }
+
+        public string Tillverkare
+        {
+            get { return this.tillverkare; }
+            set { this.tillverkare = value; }
+        }
 
         private class SortÅrStigande : IComparer
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj": {}
+    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj": {}
   },
   "projects": {
-    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj": {
+    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj",
+        "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj",
         "projectName": "IComparableIntBILEX",
-        "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj",
+        "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\IComparableIntBILEX.csproj",
         "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\obj\\",
+        "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\IComparableIntBILEX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudioCommunity\\Shared\\NuGetPackages"
