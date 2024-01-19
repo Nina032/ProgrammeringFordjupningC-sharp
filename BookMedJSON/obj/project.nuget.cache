@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2x30QXvlaiHXdaRYI5bbp6Vj3mPkJlmWQMgNIbhVeJo5mmYvB6qlZpRSpJ0lPyDElvTJpouabN3tdTBNQwxm0w==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\BookMedJSON\\BookMedJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nevena\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

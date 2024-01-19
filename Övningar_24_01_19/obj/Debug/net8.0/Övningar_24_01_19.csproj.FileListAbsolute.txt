@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\bin\Debug\net8.0\Övningar_24_01_19.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\bin\Debug\net8.0\Övningar_24_01_19.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\bin\Debug\net8.0\Övningar_24_01_19.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\bin\Debug\net8.0\Övningar_24_01_19.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\bin\Debug\net8.0\Övningar_24_01_19.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\refint\Övningar_24_01_19.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\Övningar_24_01_19.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\Övningar_24_01_19\obj\Debug\net8.0\ref\Övningar_24_01_19.dll

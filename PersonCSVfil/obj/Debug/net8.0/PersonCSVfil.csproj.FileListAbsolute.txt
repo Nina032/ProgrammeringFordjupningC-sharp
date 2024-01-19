@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\bin\Debug\net8.0\PersonCSVfil.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\bin\Debug\net8.0\PersonCSVfil.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\bin\Debug\net8.0\PersonCSVfil.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\bin\Debug\net8.0\PersonCSVfil.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\bin\Debug\net8.0\PersonCSVfil.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\refint\PersonCSVfil.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\PersonCSVfil.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\PersonCSVfil\obj\Debug\net8.0\ref\PersonCSVfil.dll

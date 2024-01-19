@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Övningar_24_01_19/1.0.0": {
+        "runtime": {
+          "Övningar_24_01_19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Övningar_24_01_19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
