@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\bin\Debug\net8.0\ArvEmployee.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\bin\Debug\net8.0\ArvEmployee.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\bin\Debug\net8.0\ArvEmployee.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\bin\Debug\net8.0\ArvEmployee.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\bin\Debug\net8.0\ArvEmployee.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\refint\ArvEmployee.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ArvEmployee.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\ArvEmployee\obj\Debug\net8.0\ref\ArvEmployee.dll

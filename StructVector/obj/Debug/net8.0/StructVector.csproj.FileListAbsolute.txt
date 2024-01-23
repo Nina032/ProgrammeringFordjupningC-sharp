@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\bin\Debug\net8.0\StructVector.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\bin\Debug\net8.0\StructVector.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\bin\Debug\net8.0\StructVector.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\bin\Debug\net8.0\StructVector.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\bin\Debug\net8.0\StructVector.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\refint\StructVector.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\StructVector.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\StructVector\obj\Debug\net8.0\ref\StructVector.dll

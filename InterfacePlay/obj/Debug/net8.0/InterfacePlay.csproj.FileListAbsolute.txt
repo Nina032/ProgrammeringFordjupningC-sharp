@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\bin\Debug\net8.0\InterfacePlay.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\bin\Debug\net8.0\InterfacePlay.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\bin\Debug\net8.0\InterfacePlay.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\bin\Debug\net8.0\InterfacePlay.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\bin\Debug\net8.0\InterfacePlay.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\refint\InterfacePlay.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\InterfacePlay.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\InterfacePlay\obj\Debug\net8.0\ref\InterfacePlay.dll

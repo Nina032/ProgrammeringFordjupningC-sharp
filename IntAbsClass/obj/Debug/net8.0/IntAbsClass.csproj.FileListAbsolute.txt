@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\bin\Debug\net8.0\IntAbsClass.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\bin\Debug\net8.0\IntAbsClass.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\bin\Debug\net8.0\IntAbsClass.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\bin\Debug\net8.0\IntAbsClass.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\bin\Debug\net8.0\IntAbsClass.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\refint\IntAbsClass.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\IntAbsClass.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\IntAbsClass\obj\Debug\net8.0\ref\IntAbsClass.dll
