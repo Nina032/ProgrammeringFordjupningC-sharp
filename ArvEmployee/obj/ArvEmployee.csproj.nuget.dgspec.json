@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj": {}
+    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj": {}
   },
   "projects": {
-    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj": {
+    "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj",
+        "projectUniqueName": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj",
         "projectName": "ArvEmployee",
-        "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj",
+        "projectPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\ArvEmployee.csproj",
         "packagesPath": "C:\\Users\\Nevena\\.nuget\\packages\\",
-        "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\obj\\",
+        "outputPath": "D:\\repos\\OvningarC-sharpFordjupning\\ProgrammeringFordjupningC-sharp\\ProgrammeringFordjupningC-sharp\\ArvEmployee\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudioCommunity\\Shared\\NuGetPackages"

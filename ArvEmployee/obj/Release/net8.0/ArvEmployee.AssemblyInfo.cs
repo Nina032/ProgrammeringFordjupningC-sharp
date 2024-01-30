@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArvEmployee")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19e4590f739f8afd4b481acb1bd5564cce369598")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9b6fa7ac456c490f375412cb5d4e7cdb28bfa9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArvEmployee")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArvEmployee")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

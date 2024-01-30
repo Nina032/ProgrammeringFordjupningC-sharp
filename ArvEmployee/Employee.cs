@@ -11,12 +11,19 @@ namespace ArvEmployee
         public string? EmployeeCode { get; set; }
         public DateTime HireDate { get; set; }
 
-        public void WriteConsole()
+        public new void WriteToConsole()
         {
-            Console.WriteLine(format: "{0} was born on {1:dd/MM/yy} and hired on {2:dd/MM/yy}",
-                arg0: Name,
-                arg1: DateofBirth,
-                arg2: HireDate);
+            Console.WriteLine(format:
+              "{0} was born on {1:dd/MM/yy} and hired on {2:dd/MM/yy}",
+              arg0: Name,
+              arg1: DateofBirth,
+              arg2: HireDate);
         }
+
+        public override string ToString()
+        {
+            return $"{Name}'code is {EmployeeCode}";
+        }
+
     }
 }

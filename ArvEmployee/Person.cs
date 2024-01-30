@@ -7,7 +7,7 @@ using static System.Console;
 
 namespace ArvEmployee
 {
-    public class Person : object
+    public class Person 
     {
         //Egenskaper
         public string? Name { get; set; }
@@ -43,7 +43,7 @@ namespace ArvEmployee
         }
 
         //overriden metod ToString
-        public override string ToString()
+        public virtual string ToString()
         {
             return $"{Name} is a {base.ToString()}";
         }
