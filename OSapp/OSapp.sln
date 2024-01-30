@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSapp", "OSapp.csproj", "{51F4F7F8-23D3-4192-AC1F-FA9A94263A41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetTyper", "..\dotNetTyper\dotNetTyper.csproj", "{BB0E7BB3-8A01-4013-B91D-8B363B17AECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51F4F7F8-23D3-4192-AC1F-FA9A94263A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F4F7F8-23D3-4192-AC1F-FA9A94263A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F4F7F8-23D3-4192-AC1F-FA9A94263A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F4F7F8-23D3-4192-AC1F-FA9A94263A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0E7BB3-8A01-4013-B91D-8B363B17AECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0E7BB3-8A01-4013-B91D-8B363B17AECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0E7BB3-8A01-4013-B91D-8B363B17AECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0E7BB3-8A01-4013-B91D-8B363B17AECE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D4739A-DF78-4ADE-9574-DAE74C0B00A4}
+	EndGlobalSection
+EndGlobal

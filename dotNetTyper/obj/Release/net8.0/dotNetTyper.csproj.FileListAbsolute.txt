@@ -1,0 +1,15 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\bin\Release\net8.0\dotNetTyper.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\bin\Release\net8.0\dotNetTyper.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\bin\Release\net8.0\dotNetTyper.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\bin\Release\net8.0\dotNetTyper.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\bin\Release\net8.0\dotNetTyper.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\refint\dotNetTyper.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.pdb
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\dotNetTyper.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\dotNetTyper\obj\Release\net8.0\ref\dotNetTyper.dll

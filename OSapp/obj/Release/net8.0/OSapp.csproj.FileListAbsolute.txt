@@ -1,0 +1,13 @@
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\bin\Release\net8.0\OSapp.exe
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\bin\Release\net8.0\OSapp.deps.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\bin\Release\net8.0\OSapp.runtimeconfig.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\bin\Release\net8.0\OSapp.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\OSapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\OSapp.AssemblyInfoInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\OSapp.AssemblyInfo.cs
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\OSapp.csproj.CoreCompileInputs.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\OSapp.sourcelink.json
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\OSapp.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\refint\OSapp.dll
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\OSapp.genruntimeconfig.cache
+D:\repos\OvningarC-sharpFordjupning\ProgrammeringFordjupningC-sharp\OSapp\obj\Release\net8.0\ref\OSapp.dll
