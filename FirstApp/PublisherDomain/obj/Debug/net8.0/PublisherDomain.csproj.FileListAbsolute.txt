@@ -1,0 +1,23 @@
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App done\Before\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\bin\Debug\net8.0\PublisherDomain.deps.json
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\bin\Debug\net8.0\PublisherDomain.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\bin\Debug\net8.0\PublisherDomain.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\PublisherDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfoInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\PublisherDomain.AssemblyInfo.cs
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\PublisherDomain.csproj.CoreCompileInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\PublisherDomain.sourcelink.json
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\PublisherDomain.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\refint\PublisherDomain.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\PublisherDomain.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherDomain\obj\Debug\net8.0\ref\PublisherDomain.dll

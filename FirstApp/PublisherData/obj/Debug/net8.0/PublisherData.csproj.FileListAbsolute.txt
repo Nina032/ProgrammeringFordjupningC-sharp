@@ -1,0 +1,16 @@
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\bin\Debug\net8.0\PublisherData.deps.json
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\bin\Debug\net8.0\PublisherData.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\bin\Debug\net8.0\PublisherData.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\bin\Debug\net8.0\PublisherDomain.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\bin\Debug\net8.0\PublisherDomain.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.csproj.AssemblyReference.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.AssemblyInfoInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.AssemblyInfo.cs
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.csproj.CoreCompileInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.sourcelink.json
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.csproj.CopyComplete
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\refint\PublisherData.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\PublisherData.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Din första app\Innan - Göra\PublisherData\obj\Debug\net8.0\ref\PublisherData.dll
