@@ -1,0 +1,202 @@
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherConsole.exe
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherConsole.deps.json
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherConsole.runtimeconfig.json
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherConsole.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherConsole.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Azure.Core.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Azure.Identity.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.Drawing.Common.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.Memory.Data.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.Runtime.Caching.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.Security.Permissions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\System.Windows.Extensions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherData.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherDomain.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherData.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\bin\Debug\net8.0\PublisherDomain.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.csproj.AssemblyReference.cache
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.GeneratedMSBuildEditorConfig.editorconfig
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.AssemblyInfoInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.AssemblyInfo.cs
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.csproj.CoreCompileInputs.cache
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.csproj.CopyComplete
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\refint\PublisherConsole.dll
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.pdb
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\PublisherConsole.genruntimeconfig.cache
+M:\PluralsightEFCoreFundamentals_EF8\M05 Migrations\Before\PublisherConsole\obj\Debug\net8.0\ref\PublisherConsole.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherConsole.exe
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherConsole.deps.json
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherConsole.runtimeconfig.json
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherConsole.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherConsole.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Azure.Core.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Azure.Identity.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Humanizer.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.CodeDom.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Memory.Data.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherData.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherDomain.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherData.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\bin\Debug\net8.0\PublisherDomain.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.csproj.AssemblyReference.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.AssemblyInfoInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.AssemblyInfo.cs
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.csproj.CoreCompileInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.sourcelink.json
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.csproj.CopyComplete
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\refint\PublisherConsole.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\PublisherConsole.genruntimeconfig.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\Innan - Gör\PublisherConsole\obj\Debug\net8.0\ref\PublisherConsole.dll
