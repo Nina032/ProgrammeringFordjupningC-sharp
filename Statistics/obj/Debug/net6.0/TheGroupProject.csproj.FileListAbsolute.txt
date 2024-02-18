@@ -1,0 +1,17 @@
+C:\Users\ingri\source\repos\TheGroupProject\bin\Debug\net6.0\TheGroupProject.exe
+C:\Users\ingri\source\repos\TheGroupProject\bin\Debug\net6.0\TheGroupProject.deps.json
+C:\Users\ingri\source\repos\TheGroupProject\bin\Debug\net6.0\TheGroupProject.runtimeconfig.json
+C:\Users\ingri\source\repos\TheGroupProject\bin\Debug\net6.0\TheGroupProject.dll
+C:\Users\ingri\source\repos\TheGroupProject\bin\Debug\net6.0\TheGroupProject.pdb
+C:\Users\ingri\source\repos\TheGroupProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.csproj.AssemblyReference.cache
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.AssemblyInfoInputs.cache
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.AssemblyInfo.cs
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.csproj.CoreCompileInputs.cache
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.csproj.CopyComplete
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.dll
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\refint\TheGroupProject.dll
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.pdb
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\TheGroupProject.genruntimeconfig.cache
+C:\Users\ingri\source\repos\TheGroupProject\obj\Debug\net6.0\ref\TheGroupProject.dll
