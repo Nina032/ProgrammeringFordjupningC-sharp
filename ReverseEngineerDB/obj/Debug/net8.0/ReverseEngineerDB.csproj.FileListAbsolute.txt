@@ -1,0 +1,15 @@
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\bin\Debug\net8.0\ReverseEngineerDB.deps.json
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\bin\Debug\net8.0\ReverseEngineerDB.runtimeconfig.json
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\bin\Debug\net8.0\ReverseEngineerDB.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\bin\Debug\net8.0\ReverseEngineerDB.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.csproj.AssemblyReference.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.AssemblyInfoInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.AssemblyInfo.cs
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.csproj.CoreCompileInputs.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.sourcelink.json
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\refint\ReverseEngineerDB.dll
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.pdb
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ReverseEngineerDB.genruntimeconfig.cache
+D:\repos\Info_data_Ut_ProjektEFCore\Migration_1\ReverseEngineer - Gör\obj\Debug\net8.0\ref\ReverseEngineerDB.dll
